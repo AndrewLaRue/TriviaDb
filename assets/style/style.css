@@ -1,0 +1,9 @@
+/* BASIC STYLES HERE */
+
+.flip-me {
+  opacity: .5;
+}
+
+.my-card {
+  min-height: 37vh;
+}
